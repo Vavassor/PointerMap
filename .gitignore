@@ -1,0 +1,9 @@
+Debug/
+Release/
+.cproject
+.project
+*.vcxproj*
+*.o
+*.obj
+PointerMap
+*.exe
